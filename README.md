@@ -1,6 +1,7 @@
-## Installation
 
-```
+# Installation
+
+```shell
 git clone https://github.com/blgegaj/format-preserving-encryption.git
 cd format-preserving-encryption/
 pip install -r requirements.txt
@@ -8,7 +9,7 @@ pip install -r requirements.txt
 
 ## Example
 
-```
+```shell
 python src.py
 
 Number to encrypt - 7777777777777777
